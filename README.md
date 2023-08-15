@@ -13,7 +13,8 @@ or
 ```nodemon server.js```
 
 ## Screenshot
-![ss1](https://github.com/ch3tanbug/Demo_PDFmerger_JS/assets/91141841/4fed56a8-e948-4fb4-9a47-bc7cc5b87447)
+![SampleSS](https://github.com/ch3tanbug/Demo_PDFmerger_JS/blob/main/img1.PNG)
+
 
 
 
